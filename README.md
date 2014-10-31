@@ -19,7 +19,7 @@ In the root directory of the project:
 1. Compile and create the JAR
 ```
 javac *.java
-jar cfe mobtimer.jar mobtimer *.class
+jar cfe mobtimer.jar Mobtimer *.class
 ```
 2. Run it!
 ```
@@ -28,7 +28,7 @@ java -jar mobtimer.jar
 
 Or as a one-liner:
 ```
-javac *.java && jar cfe mobtimer.jar mobtimer *.class && java -jar mobtimer.jar
+javac *.java && jar cfe mobtimer.jar MobTimer *.class && java -jar mobtimer.jar
 ```
 
 **Once you have the timer up and running, you can use it to schedule driver changes:**

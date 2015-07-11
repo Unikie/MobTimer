@@ -3,7 +3,7 @@ MobTimer
 
 An on-screen pop-up timer for Mob Programming. Helps your team to switch drivers periodically.
 
-In Mystes, we initially used timer apps on smart phones to promt the driver change with an annoying alarm noise. Once we had two mob teams in the same open room, it quickly became clear that we needed a silent but efficient timer for the purpose.
+In Mystes, we initially used timer apps on smart phones to prompt the driver change with an annoying alarm noise. Once we had two mob teams in the same open room, it quickly became clear that we needed a silent but efficient timer for the purpose.
 
 The inspiration for creating MobTimer was seeing how Woody Zuill's team uses a similar tool for forcing driver switch in Mob Programming sessions. Unfortunately we cannot use their original .Net version of the tool because our mobs use various platforms. Thus, we decided to develop our own version of the tool with good ol' Java.
 

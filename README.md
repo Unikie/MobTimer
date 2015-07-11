@@ -19,7 +19,7 @@ In the root directory of the project:
 1. Compile and create the JAR
 ```
 javac *.java
-jar cfe mobtimer.jar Mobtimer *.class
+jar cfe mobtimer.jar MobTimer *.class
 ```
 2. Run it!
 ```
